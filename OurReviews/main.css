@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container h2 {
+    padding: 1.7rem;
+    text-transform: capitalize;
+}
+
+.container .img {
+    padding-bottom: 1.5rem;
+}
+
+.review .name,
+.job {
+    font-weight: 700;
+    line-height: 2;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.next-btn {
+    margin-left: 15px;
+}
+
+.random-btn {
+    margin-top: 1rem;
+}
