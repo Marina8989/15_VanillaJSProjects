@@ -72,7 +72,6 @@ prevBtn.addEventListener('click', function() {
 
 randomBtn.addEventListener('click', function() {
     currentItem = randomReview();
-    console.log(currentItem);
     setPerson(currentItem);
 });
 
