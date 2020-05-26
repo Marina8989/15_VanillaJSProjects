@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    margin: 2rem auto;
+    text-align: center;
+}
+
+main h2 {
+    margin-bottom: .5rem;
+    font-size: 2rem;
+}
+
+main span {
+    font-size: 2rem;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons .btn {
+    margin: 7px;
+    font-size: 1rem;
+    padding: 0.7rem;
+    border-radius: 10px;
+}
